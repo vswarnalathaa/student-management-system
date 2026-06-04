@@ -1,0 +1,212 @@
+[
+    {
+        "id": 101,
+        "name": "John",
+        "marks": {
+            "Maths": 95,
+            "English": 88,
+            "Science": 92,
+            "Social": 85
+        },
+        "total": 360,
+        "percentage": 90.0,
+        "grade": "A"
+    },
+    {
+        "id": 102,
+        "name": "Emma",
+        "marks": {
+            "Maths": 82,
+            "English": 79,
+            "Science": 85,
+            "Social": 80
+        },
+        "total": 326,
+        "percentage": 81.5,
+        "grade": "B"
+    },
+    {
+        "id": 103,
+        "name": "Liam",
+        "marks": {
+            "Maths": 70,
+            "English": 68,
+            "Science": 75,
+            "Social": 72
+        },
+        "total": 285,
+        "percentage": 71.25,
+        "grade": "C"
+    },
+    {
+        "id": 104,
+        "name": "Olivia",
+        "marks": {
+            "Maths": 98,
+            "English": 96,
+            "Science": 97,
+            "Social": 95
+        },
+        "total": 386,
+        "percentage": 96.5,
+        "grade": "A"
+    },
+    {
+        "id": 105,
+        "name": "Noah",
+        "marks": {
+            "Maths": 55,
+            "English": 60,
+            "Science": 58,
+            "Social": 62
+        },
+        "total": 235,
+        "percentage": 58.75,
+        "grade": "D"
+    },
+    {
+        "id": 106,
+        "name": "Sophia",
+        "marks": {
+            "Maths": 87,
+            "English": 84,
+            "Science": 89,
+            "Social": 86
+        },
+        "total": 346,
+        "percentage": 86.5,
+        "grade": "B"
+    },
+    {
+        "id": 107,
+        "name": "James",
+        "marks": {
+            "Maths": 45,
+            "English": 50,
+            "Science": 48,
+            "Social": 42
+        },
+        "total": 185,
+        "percentage": 46.25,
+        "grade": "D"
+    },
+    {
+        "id": 108,
+        "name": "Ava",
+        "marks": {
+            "Maths": 91,
+            "English": 90,
+            "Science": 93,
+            "Social": 89
+        },
+        "total": 363,
+        "percentage": 90.75,
+        "grade": "A"
+    },
+    {
+        "id": 109,
+        "name": "Benjamin",
+        "marks": {
+            "Maths": 77,
+            "English": 73,
+            "Science": 79,
+            "Social": 75
+        },
+        "total": 304,
+        "percentage": 76.0,
+        "grade": "B"
+    },
+    {
+        "id": 110,
+        "name": "Mia",
+        "marks": {
+            "Maths": 65,
+            "English": 68,
+            "Science": 70,
+            "Social": 66
+        },
+        "total": 269,
+        "percentage": 67.25,
+        "grade": "C"
+    },
+    {
+        "id": 111,
+        "name": "Lucas",
+        "marks": {
+            "Maths": 39,
+            "English": 42,
+            "Science": 40,
+            "Social": 38
+        },
+        "total": 159,
+        "percentage": 39.75,
+        "grade": "F"
+    },
+    {
+        "id": 112,
+        "name": "Charlotte",
+        "marks": {
+            "Maths": 88,
+            "English": 91,
+            "Science": 87,
+            "Social": 90
+        },
+        "total": 356,
+        "percentage": 89.0,
+        "grade": "B"
+    },
+    {
+        "id": 113,
+        "name": "Henry",
+        "marks": {
+            "Maths": 58,
+            "English": 61,
+            "Science": 57,
+            "Social": 60,
+            "social": 70
+        },
+        "total": 306,
+        "percentage": 61.2,
+        "grade": "C"
+    },
+    {
+        "id": 114,
+        "name": "Amelia",
+        "marks": {
+            "Maths": 100,
+            "English": 98,
+            "Science": 99,
+            "Social": 97
+        },
+        "total": 394,
+        "percentage": 98.5,
+        "grade": "A"
+    },
+    {
+        "id": 115,
+        "name": "William",
+        "marks": {
+            "Maths": 72,
+            "English": 74,
+            "Science": 70,
+            "Social": 73,
+            "science": 90
+        },
+        "total": 379,
+        "percentage": 75.8,
+        "grade": "B"
+    },
+    {
+        "id": 117,
+        "name": "dfg",
+        "marks": {
+            "maths": 90,
+            "english": 90,
+            "science": 90,
+            "social": 90
+        },
+        "total": 360,
+        "percentage": 90.0,
+        "grade": "B"
+    }
+]
